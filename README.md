@@ -15,7 +15,7 @@ Weather Chatbot created using Amazon Lex
   2. You have two options either to load the zip file directly from your local computer or from S3 bucket
 
 3. Make a Chatbot from AWS Lex
-4. Attach the lambda function in the intent to which the lambda to run
+4. Attach the lambda function in the intent to which the you want it to run
 5. If you are going to use the same name as I have kept of lambda function and chatbot slot intent, you upload the currentweather.zip file 
 
 Note:
