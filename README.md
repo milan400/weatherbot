@@ -23,3 +23,5 @@ Some changes in the code may occur as the "name" of the Intent, Lambda function 
 # Basic Work Flow in Current Bot
 
 <img src= "https://github.com/milan400/weatherbot/blob/main/images/working.png"/>
+
+## You can find the video showing the working of bot from the video folder
