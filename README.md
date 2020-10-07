@@ -12,7 +12,7 @@ Weather Chatbot created using Amazon Lex
 1. Clone the repo
 2. Make zip file of this repo
   1. The zip file name should be the name of your lambda application name
-  2. You have to options either to load the zip file directly from your local or from S3 bucket
+  2. You have two options either to load the zip file directly from your local computer or from S3 bucket
 
 3. Make a Chatbot from AWS Lex
 4. Attach the lambda function in the intent to which the lambda to run
