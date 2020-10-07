@@ -16,6 +16,7 @@ Weather Chatbot created using Amazon Lex
 
 3. Make a Chatbot from AWS Lex
 4. Attach the lambda function in the intent to which the lambda to run
+5. If you are going to use the same name as I have kept of lambda function and chatbot slot intent, you upload the currentweather.zip file 
 
 Note:
 Some changes in the code may occur as the "name" of the Intent, Lambda function may differ from yours to mine
