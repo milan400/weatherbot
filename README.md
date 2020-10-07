@@ -26,3 +26,8 @@ Some changes in the code may occur as the "name" of the Intent, Lambda function 
 <img src= "https://github.com/milan400/weatherbot/blob/main/images/working.png"/>
 
 ## You can find the video showing the working of bot from the video folder
+
+-------------------------------------------------------------------------------------------------
+Machine Learning Scientist Course:
+
+<img src="https://github.com/milan400/RekognitionS3/blob/master/machinelearning.png"/>
