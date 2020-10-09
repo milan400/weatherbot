@@ -1,13 +1,12 @@
 import requests, json
 
-
 def lambda_handler(event, context):
     
     if(event["currentIntent"]["name"]=='TodaysWeather'):
 
     	entity = event["currentIntent"]["slots"]["location"].title()
     
-    	api_key = "place your key here"
+    	api_key = "1e2992f2efaf0cfa567331c246ccc4db"
     	base_url = "http://api.openweathermap.org/data/2.5/weather?"
     
     	city_name = entity
