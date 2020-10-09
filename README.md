@@ -19,7 +19,7 @@ Weather Chatbot created using Amazon Lex
 
 Note:
 1. Some changes in the code may occur as the "name" of the Intent, Lambda function may differ from yours to mine
-2. You can get your api key from openweathermap. Since it is not allowed to put yours publickly. So, I remove mine.
+2. You can get your api key from openweathermap. Since it is not allowed to show key in  public. So, I remove mine.
 
 # Basic Work Flow in Current Bot
 
