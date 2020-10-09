@@ -6,7 +6,7 @@ def lambda_handler(event, context):
 
     	entity = event["currentIntent"]["slots"]["location"].title()
     
-    	api_key = "1e2992f2efaf0cfa567331c246ccc4db"
+    	api_key = "place api key here"
     	base_url = "http://api.openweathermap.org/data/2.5/weather?"
     
     	city_name = entity
