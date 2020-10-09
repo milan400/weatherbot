@@ -18,8 +18,8 @@ Weather Chatbot created using Amazon Lex
 4. Attach the lambda function in the intent to which you want it to run
 
 Note:
-  Some changes in the code may occur as the "name" of the Intent, Lambda function may differ from yours to mine
-  You can get your api key from openweathermap. Since it is not allowed to put yours publickly. So, I remove mine.
+  a. Some changes in the code may occur as the "name" of the Intent, Lambda function may differ from yours to mine
+  b. You can get your api key from openweathermap. Since it is not allowed to put yours publickly. So, I remove mine.
 
 # Basic Work Flow in Current Bot
 
